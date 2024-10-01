@@ -13,5 +13,4 @@ else :
     money = 100
 
 print("$", money)
-    
-    
+print("Tegar Ganteng")
